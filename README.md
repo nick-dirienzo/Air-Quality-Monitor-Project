@@ -1,2 +1,2 @@
-# Environmental_Pollutant_Sensor
-With this project I am looking to create a sensor that is capable of measuring the concentration of a particular environmental pollutant that is harmful to human health upon exposure. At the current moment, I do not know what environmental pollutant I want to measure, that question is TBD.
+# Air Quality Monitor Project
+With this project, I built a mobile air quality monitoring device with a Raspberry Pi 3B and a series of air quality sensors to measure PM, NO2, SO2, H2S, and NH3. Included in this repository will be the key Python files that get the components of this device to work together, or to zero/calibrate the sensors that need to be zeroed/calibrated (NO2, SO2, H2S, and NH3 sensors for my project).
