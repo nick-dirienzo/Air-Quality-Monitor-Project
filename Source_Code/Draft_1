@@ -1,8 +1,0 @@
-$ python -m venv venv
-$ source venv/bin/activate
-$ python -m pip install <whatever modules I want to install>
-python -m pip freeze > requirements.txt
-...
-code, learn, do stuff
-...
-$ deactivate (this deactivates the virtual environment
